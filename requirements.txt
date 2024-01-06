@@ -5,6 +5,5 @@ seaborn
 scikit-learn
 joblib
 tensorflow
-os
 pickle
 numpy
